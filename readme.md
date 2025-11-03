@@ -29,10 +29,3 @@ O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 * **Seaborn:** Para visualização estatística de dados (incluindo a matriz de correlação e o `lmplot`).
 * **Matplotlib:** Para customização de gráficos.
 * **Scikit-learn:** Para a construção e avaliação do modelo de Regressão Linear.
-
-## 🚀 Como Executar o Projeto
-
-Para replicar a análise e os resultados, siga os passos abaixo:
-
-### Pré-requisitos
-Certifique-se de ter o Python 3.x instalado.
